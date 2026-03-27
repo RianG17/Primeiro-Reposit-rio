@@ -1,0 +1,21 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+height: 200vh;
+width: 200vh;
+}
+.div-dad {
+height: 350px;
+width: 350px;
+background-color: rgb(237, 100, 210);
+}
+.div-son {
+height: 150px;
+width: 150px;
+background-color:rgb(255, 244, 145);
+}
+.div-friend {
+height: 150px;
+width: 150px;
+background-color:rgb(176, 145, 255);
+}

@@ -1,0 +1,57 @@
+*{
+  font-family: "Covered By Your Grace", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.img-logo {
+    width: 368;
+    height: 300;
+    margin-left: 125px;
+    display:inline-block
+}
+header
+{margin: 44px 0 144px 76px;}
+
+.link-header 
+{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffff;
+    cursor:pointer;
+    margin-left: 125px;
+}
+.button-header
+{ font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+background-color: rgb(138, 199, 224);
+border-radius: 20.5px;
+    cursor:pointer;
+    width: 131px;
+    height: 41px;
+    border:none
+}
+.h1 {font-weight: 900;
+        font-size: 100;
+        line-height: 122px;
+        color: rgb(255, 237, 255);
+    margin-left: 525px;}
+*{background-color:black}
+.content-header {color: #ffff;}
+.section {display: inline-block; margin-left: 86px;}
+.main-button {color:#000000;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20.5px;
+    cursor:pointer;
+    width: 131px;
+    height: 41px;
+    border:none;
+    margin-left: 525px;}
+

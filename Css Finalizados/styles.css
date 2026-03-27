@@ -1,0 +1,8 @@
+/*STYLE é a principal mecaica do CSS para estilizar o site*/
+    /*Obrigatório Ponto e Virgula ;*/
+ h1{color:rgb(187, 187, 255); background-color:rgb(188, 94, 188);}
+ p{ color:gold; font-size: 20px;}
+button {color:rgb(162, 72, 72); background-color:blanchedalmond;border-color: brown;}
+* {background-color:rgb(149, 149, 197);}
+#Título {color:darkblue;}
+#Botão2 {color:purple; background-color: coral;}

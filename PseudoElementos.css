@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+input {border: 1px solid red; color:rgb(58, 53, 116);}
+input::placeholder {color:rgb(223, 82, 211);}
+
+p {color:blueviolet;}
+p::first-line {color:chocolate;}
+p::first-letter {color:brown;}
+
+a:active
+{color:red}
+a:visited {color:purple}
+a:hover {color:rgb(255, 0, 51);}
+p:hover {color:blue}
+input:focus {border:1px solid red;}
+/*First Child quer dizer q vai pegar só o primeiro com aquele comando*/
+li:first-child {color:red}
+li:last-child {color:blue}
+li:nth-child(4){color:coral}
+li:nth-last-child(4){color:blueviolet}
+Span:first-of-type {color:red}
+
+.container:not(.excluido) {color:brown}
+@media screen and (max-width:600px) and (orientation: landscape) {div{background:red}}
